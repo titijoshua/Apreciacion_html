@@ -1,3 +1,4 @@
 Profesor Joshua Chandler: Agrego la etiqueta <tille> con el tema (Patria)
 Andrea Booth: agregó etiquetas de body ("Fiestas Patrias") y un breve texto introductorio al tema (línea 7) [usuario: AndieB03]
 Ricardo Zapata: agregó la eitqueta de <H1><center>>font color><I><br> línea 8 a 15, rzcbee-usuario 
+Jairy Checa:agrego la etiqueta <ul><center><il><br> y un breve texto acerca de los simbolos patrios línea 17 a 24 (usuario-JairyCheca)
