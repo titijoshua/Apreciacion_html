@@ -4,3 +4,4 @@ Ricardo Zapata: agregó la eitqueta de <H1><center>>font color><I><br> línea 8 
 Jairy Checa:agrego la etiqueta <ul><center><il><br> y un breve texto acerca de los simbolos patrios línea 17 a 24 (usuario-JairyCheca)
 christopher gonzález: linea 25 a 31 bandera de panamá (christopher312420)
 Olga Machado: agregó la etiqueta <br><center><h3><h4> y un breve texto del himno nacional (línea 32-35) {usuario- olgadineth2}
+Tiare Torres: agrego la etiqueta <br><center>video de la bandera</center>
